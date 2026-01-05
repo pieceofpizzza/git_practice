@@ -1,2 +1,4 @@
 Bug report: firstTestBug
 Status: new
+Priority: high
+Severity: low
